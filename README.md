@@ -1,7 +1,7 @@
 # PM2.5 Forecasting at U.S. Embassies and Consulates Worldwide using NASA Model Powered by Machine Learning
 
 This repository contains the data processing scripts, model code, and relevant documentation for the study:
-"Machine Learning-Based Air Quality Forecasting Using GEOS-FP Data and Ground Measurements"
+"PM2.5 Forecasting at U.S. Embassies and Consulates Worldwide using NASA Model Powered by Machine Learning."
 
 ## 📢 Availability Notice
 
