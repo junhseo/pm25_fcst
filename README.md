@@ -11,7 +11,7 @@ We appreciate your understanding and interest in this work. If you have any ques
 
 ## 🔗 Public Access to Forecasts
 While the full repository will be released upon acceptance, the forecasting results are already publicly available via our API hosted on the NASA webpage:  
-[https://aeronet.gsfc.nasa.gov/new_web/agforecast](https://aeronet.gsfc.nasa.gov/new_web/agforecast)
+[[https://aeronet.gsfc.nasa.gov/new_web/agforecast](https://aeronet.gsfc.nasa.gov/new_web/agforecast)]
 
 
 A license will be included upon publication release. Until then, all rights are reserved.
