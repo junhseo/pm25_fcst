@@ -1,0 +1,271 @@
+sitename,Country or Area Name,Full Address,Latitude,Longitude,Air Quality Monitor,IDXi,IDXj,SRadius,MERRALat,MERRALon,agencyname,stationid,utcoff,Continent
+Abidjan,Cote d'Ivoire,Abidjan Cote d'Ivoire ,5.3599517,-4.0082563,Y,382,564,13.6,5.25,-4.062,U.S. Department of State Ivory Coast - Abidjan,384CI1010001,0,africa
+Abu_Dhabi,United Arab Emirates,Abu Dhabi United Arab Emirates ,24.42431,54.433874,Y,459,751,5.1,24.5,54.375,U.S. Department of State UAE - Abu Dhabi,AD1010001,4,middle_east
+Abuja,Nigeria,Abuja Nigeria ,9.041648,7.477374,Y,397,601,14,9,7.5,U.S. Department of State Nigeria - Abuja,1,1,africa
+Accra,Ghana,Accra Ghana ,5.580642,-0.170724,Y,383,576,18.1,5.5,-0.312,U.S. Department of State Ghana - Accra,288GH1010001,0,africa
+Adana,Turkey,Adana Turkey ,36.9914194,35.3308285,N,509,690,1.9,37,35.312,,2,3,middle_east
+Addis_Ababa,Ethiopia,Addis Ababa Ethiopia ,9.058498,38.761641,Y,397,701,13.4,9,38.75,U.S. Department of State Ethiopia - Addis Ababa,231AA1010001,3,africa
+Alexandria,Egypt,Alexandria Egypt ,31.2000924,29.9187387,N,486,673,9.5,31.25,30,,4,3,africa
+Algiers,Algeria,Algiers Algeria ,36.755798,3.039114,Y,508,587,5.9,36.75,3.125,U.S. Department of State Algeria - Algiers,012ALG010001,1,africa
+Almaty,Kazakhstan,Almaty Kazakhstan ,43.252855,76.93118,Y,534,823,3.7,43.25,76.875,U.S. Department of State Kazakhstan - Almaty,398KZ1010001,6,central_asia
+Amman,Jordan,Amman Jordan ,31.945021,35.880501,Y,489,692,5.7,32,35.938,U.S. Department of State Jordan - Amman,400JOR010001,3,middle_east
+Amsterdam,Netherlands,Amsterdam Netherlands ,52.3675734,4.9041389,N,570,593,14.6,52.25,5,,5,2,europe
+Ankara,Turkey,Ankara Turkey ,39.9333635,32.8597419,N,521,682,8.4,40,32.812,,6,3,middle_east
+Antananarivo,Madagascar,Antananarivo Madagascar ,-18.90848,47.53751,Y,285,729,13.5,-19,47.5,U.S. Department of State Madagascar- Antananarivo,450MAD010001,3,africa
+Antwerp,Belgium,Antwerp Belgium ,51.2213404,4.4051485,N,566,591,3.8,51.25,4.375,,7,2,europe
+Apia,Samoa,Apia Samoa ,-13.8506958,-171.7513551,N,306,27,17.4,-13.75,-171.875,,8,13,southeast_asia
+Ashgabat,Turkmenistan,Ashgabat Turkmenistan ,37.9415,58.3879,Y,513,764,10.7,38,58.438,"U.S. Department of State - Ashgabat, Turkmenistan",795ABT010001,5,central_asia
+Asmara,Eritrea,Asmara Eritrea ,15.3228767,38.9250517,N,422,702,16.8,15.25,39.062,,9,3,africa
+Asuncion,Paraguay,Asuncion Paraguay ,-25.293536,-57.60395,Y,260,393,7.8,-25.25,-57.5,U.S. Department of State Paraguay - Asuncion,600PAR010001,-4,south_america
+Athens,Greece,Athens Greece ,37.9838096,23.7275388,N,513,653,2.7,38,23.75,,11,3,europe
+Auckland,New Zealand,Auckland New Zealand ,-36.8508827,174.7644881,N,214,1136,13.1,-36.75,174.688,,12,12,southeast_asia
+Baghdad,Iraq,Baghdad Iraq ,33.3128,44.3615,Y,494,719,7.3,33.25,44.375,U.S. Department of State Iraq - Baghdad,368IRQ010001,3,middle_east
+Baku,Azerbaijan,Baku Azerbaijan ,40.386992,49.842946,Y,523,736,15.1,40.5,50,U.S. Department of State Azerbaijan - Baku,031AZE010001,4,central_asia
+Bamako,Mali,Bamako Mali ,12.632524,-8.036911,Y,412,551,18.1,12.75,-8.125,U.S. Department of State Mali - Bamako,466ML1010001,0,africa
+Bandar_Seri_Begawan,Brunei,Bandar Seri Begawan Brunei ,4.9030522,114.939821,N,381,945,12.7,5,115,,14,8,southeast_asia
+Bangkok,Thailand,Bangkok Thailand ,13.727622,100.486568,Y,416,899,13.3,13.75,100.625,,TPCD0052T,7,southeast_asia
+Bangui,Central African Republic,Bangui Central African Republic ,4.3946735,18.5581899,N,379,636,17.8,4.5,18.438,,16,1,africa
+Banja_Luka,Bosnia and Herzegovina,Banja Luka Bosnia and Herzegovina ,44.7725,17.185556,Y,540,632,2.5,44.75,17.188,U.S. Department of State Bosnia Herzegovina - Banja Luka,070BH2010001,2,europe
+Banjul,"Gambia, The","Banjul Gambia, The ",13.454375,-16.5753186,N,415,524,5.3,13.5,-16.562,,18,0,africa
+Barcelona,Spain,Barcelona Spain ,41.3873974,2.168568,N,527,584,12.6,41.5,2.188,,19,2,europe
+Beijing,China,Beijing China ,39.953352,116.466258,Y,521,950,17,40,116.562,U.S. Department of State China - Beijing,156BJ1010001,8,east_asia
+Beirut,Lebanon,Beirut Lebanon ,33.8937913,35.5017767,N,497,691,16.4,34,35.625,,20,3,middle_east
+Belfast,United Kingdom,Belfast United Kingdom ,54.597285,-5.93012,N,579,558,10.8,54.5,-5.938,,21,1,europe
+Belgrade,Serbia,Belgrade Serbia ,44.8125449,20.4612299,N,540,642,13.6,44.75,20.312,,22,2,europe
+Belmopan,Belize,Belmopan Belize ,17.256124,-88.773876,Y,430,293,1,17.25,-88.75,U.S. Department of State Belize - Belmopan,084BZ1010001,-6,north_america
+Berlin,Germany,Berlin Germany ,52.5200066,13.404954,N,571,620,3.1,52.5,13.438,,24,2,europe
+Bern,Switzerland,Bern Switzerland ,46.9479739,7.4474468,N,549,601,7,47,7.5,,25,2,europe
+Bishkek,Kyrgyzstan,Bishkek Kyrgyzstan ,42.827626,74.58384,Y,532,816,16.9,42.75,74.688,U.S. Department of State Kyrgyzstan - Bishkek,417BI1010001,6,central_asia
+Bogota,Colombia,Bogota Colombia ,4.637735,-74.094856,Y,380,340,4.5,4.75,-74.062,U.S. Department of State Colombia - Bogota,BG1010001,-5,south_america
+Bordeaux,France,Bordeaux France ,44.837789,-0.57918,N,540,575,10.4,44.75,-0.625,,26,2,europe
+Brasilia,Brazil,Brasilia Brazil ,-15.7975154,-47.8918874,N,298,424,10,-15.75,-47.812,,27,-3,south_america
+Bratislava,Slovakia,Bratislava Slovakia ,48.1485965,17.1077478,N,554,632,12.7,48.25,17.188,,28,2,europe
+Brazzaville,Congo (Brazzaville),Brazzaville Congo (Brazzaville) ,-4.2633597,15.2428853,N,344,626,7.9,-4.25,15.312,,29,1,africa
+Bridgetown,Barbados,Bridgetown Barbados ,13.1059816,-59.6131741,N,413,386,14.3,13,-59.688,,30,-4,north_america
+Brussels,Belgium,Brussels Belgium ,50.8476424,4.3571696,N,564,591,10.9,50.75,4.375,,31,2,europe
+Bucharest,Romania,Bucharest Romania ,44.4267674,26.1025384,N,539,661,14.3,44.5,26.25,,32,3,europe
+Budapest,Hungary,Budapest Hungary ,47.497912,19.040235,N,551,638,1.7,47.5,19.062,,33,2,europe
+Buenos_Aires,Argentina,Buenos Aires Argentina ,-34.6036844,-58.3815591,N,223,390,12.6,-34.5,-58.438,U.S. Department of State Argentina - Buenos Aires,032BAA010002,-3,south_america
+Bujumbura,Burundi,Bujumbura Burundi ,-3.361378,29.3598782,N,348,671,12.5,-3.25,29.375,,34,2,africa
+Busan,"Korea, South","Busan Korea, South ",35.1795543,129.0756416,N,502,990,7.9,35.25,129.062,,35,9,east_asia
+Cairo,Egypt,Cairo Egypt ,30.04147,31.23289,Y,481,677,5.1,30,31.25,U.S. Department of State Egypt - Cairo,818EGY010001,3,africa
+Calgary,Canada,Calgary Canada ,51.0814,-114.1403,Y,565,212,5,51,-114.062,,CC0090222,-6,north_america
+Canberra,Australia,Canberra Australia ,-35.2809368,149.1300092,N,220,1054,7,-35.25,149.062,,38,10,southeast_asia
+Cape_Town,South Africa,Cape Town South Africa ,-33.9248685,18.4240553,N,225,636,8.4,-34,18.438,,39,2,africa
+Caracas,Venezuela,Caracas Venezuela ,10.4805937,-66.9036063,N,403,363,3.8,10.5,-66.875,,40,-4,south_america
+Cartagena,Colombia,Cartagena Colombia ,10.3932277,-75.4832311,N,403,335,19.5,10.5,-75.625,,41,-5,south_america
+Casablanca,Morocco,Casablanca Morocco ,33.5731104,-7.5898434,N,495,553,11.6,33.5,-7.5,,42,1,africa
+CATANO,Marshall Islands,CATANO Marshall Islands ,18.4465,66.1356,N,435,789,13.5,18.5,66.25,,43,4,middle_east
+Ceiba__Vega_Baja,"Micronesia, Federated States of","CEIBA, VEGA BAJA Micronesia, Federated States of ",18.4425245,-66.3562141,N,435,365,12.9,18.5,-66.25,,44,-4,north_america
+Chennai,India,Chennai India ,13.08784,80.278475,Y,413,834,10.2,13,80.312,U.S. Department of State India - Chennai,356DS1010002,5.5,south_asia
+Chiang_Mai,Thailand,Chiang Mai Thailand ,18.7883439,98.9853008,N,436,894,9.2,18.75,99.062,,45,7,southeast_asia
+Chisinau,Moldova,Chisinau Moldova ,47.021561,28.81938,Y,549,669,8.7,47,28.75,U.S. Department of State Moldova - Chisinau,498MLD010001,3,europe
+Ciudad_Juarez,Mexico,Ciudad Juarez Mexico ,31.6903638,-106.4245478,N,488,236,14.6,31.75,-106.562,,46,-6,north_america
+Colombo,Sri Lanka,Colombo Sri Lanka ,6.909445,79.875341,Y,389,833,17.3,7,80,U.S. Department of State Sri Lanka - Colombo,144CMB010001,5.5,south_asia
+Conakry,Guinea,Conakry Guinea ,9.5951,-13.6364,Y,399,533,19.6,9.75,-13.438,U.S. Department of State Guinea - Conakry,324GN1010001,0,africa
+Copenhagen,Denmark,Copenhagen Denmark ,55.6760968,12.5683372,N,584,617,9.3,55.75,12.5,,47,2,europe
+Cotonou,Benin,Cotonou Benin ,6.3702928,2.3912362,N,386,585,18,6.25,2.5,,48,1,africa
+CULEBRA,Palau,CULEBRA Palau ,29.4874353,-98.6681378,N,479,261,8,29.5,-98.75,,49,-5,north_america
+Curacao,Curacao,Curacao Curacao ,12.16957,-68.99002,Y,410,356,11.9,12.25,-69.062,U.S. Department of State Curacao,531CUR010001,-4,north_america
+Dakar,Senegal,Dakar Senegal ,14.744791,-17.526484,Y,420,521,5.1,14.75,-17.5,U.S. Department of State Senegal - Dakar,686SEN010001,0,africa
+Dar_es_Salaam,Tanzania,Dar es Salaam Tanzania ,-6.792354,39.2083284,N,334,702,16.8,-6.75,39.062,,51,3,africa
+Dhahran,Saudi Arabia,Dhahran Saudi Arabia ,26.2361248,50.0393017,N,466,737,4.2,26.25,50,U.S. Department of State Saudi Arabia - Dhahran,682DRN010000,3,middle_east
+Dhaka,Bangladesh,Dhaka Bangladesh ,23.796374,90.424614,Y,456,866,12.2,23.75,90.312,U.S. Department of State Bangladesh - Dhaka,DK1010001,6,south_asia
+Dili,Timor-Leste,Dili Timor-Leste ,-8.5568557,125.5603143,N,327,979,9.5,-8.5,125.625,,52,9,southeast_asia
+Djibouti_City,Djibouti,Djibouti City Djibouti ,11.5720765,43.1456475,N,407,715,8.3,11.5,43.125,,53,3,africa
+Doha,Qatar,Doha Qatar ,25.3337,51.22953,Y,462,741,5.1,25.25,51.562,U.S. Department of State Qatar - Doha,634QA1010001,3,middle_east
+Douala,Cameroon,Douala Cameroon ,4.0510564,9.7678687,N,377,608,10.6,4,9.688,,55,1,africa
+Dubai,United Arab Emirates,Dubai United Arab Emirates ,25.258481,55.309165,Y,462,754,6.5,25.25,55.312,U.S. Department of State UAE - Dubai,784DB1010001,4,middle_east
+Dublin,Ireland,Dublin Ireland ,53.3498053,-6.2603097,N,574,557,11.1,53.25,-6.25,,56,1,europe
+Durban,South Africa,Durban South Africa ,-29.8586804,31.0218404,N,242,676,14.6,-29.75,30.938,,57,2,africa
+Dushanbe,Tajikistan,Dushanbe Tajikistan ,38.557671,68.775917,Y,515,797,7.4,38.5,68.75,U.S. Department of State Tajikistan - Dushanbe,762DUS010001,5,central_asia
+Dusseldorf,Germany,Dusseldorf Germany ,51.2277411,6.7734556,N,566,599,7.5,51.25,6.875,,58,2,europe
+Edinburgh,United Kingdom,Edinburgh United Kingdom ,55.953252,-3.188267,N,585,567,6.5,56,-3.125,,59,1,europe
+Florence,Italy,Florence Italy ,43.7695604,11.2558136,N,536,613,2.2,43.75,11.25,,60,2,europe
+Frankfurt_am_Main,Germany,Frankfurt am Main Germany ,50.1109221,8.6821267,N,561,605,13.3,50,8.75,,61,2,europe
+Freetown,Sierra Leone,Freetown Sierra Leone ,8.4656765,-13.2317225,N,395,535,12.3,8.5,-13.125,,62,0,africa
+Fukuoka,Japan,Fukuoka Japan ,33.5901838,130.4016888,N,495,994,13,33.5,130.312,,63,9,east_asia
+Gaborone,Botswana,Gaborone Botswana ,-24.6282079,25.9231471,N,262,660,13.6,-24.75,25.938,,64,2,africa
+Gaziantep,Turkey,Gaziantep Turkey ,37.065953,37.37811,N,509,697,13.1,37,37.5,,65,3,middle_east
+Geneva,Switzerland,Geneva Switzerland ,46.2043907,6.1431577,N,546,597,9.7,46.25,6.25,,66,2,europe
+Georgetown,Guyana,Georgetown Guyana ,6.8012793,-58.1551255,N,388,391,6.6,6.75,-58.125,,67,-4,south_america
+Guadalajara,Mexico,Guadalajara Mexico ,20.6596988,-103.3496092,N,444,246,13.6,20.75,-103.438,,68,-6,north_america
+Guangzhou,China,Guangzhou China ,23.116785,113.318088,Y,453,940,19.6,23.25,113.125,U.S. Department of State China - Guangzhou,156GZ1010001,8,east_asia
+Guatemala_City,Guatemala,Guatemala City Guatemala ,14.989397,-90.522408,Y,421,287,18,14.75,-90.625,U.S. Department of State Guatemala - Guatemala City,320GT1010001,-6,north_america
+Guayaquil,Ecuador,Guayaquil Ecuador ,-2.1894128,-79.8890662,N,352,321,14,-2.25,-80,,69,-5,south_america
+Halifax,Canada,Halifax Canada ,44.647175,-63.573689,Y,540,374,15.7,44.75,-63.438,,30113,-3,north_america
+Hamburg,Germany,Hamburg Germany ,53.5510846,9.9936819,N,575,609,5.7,53.5,10,,71,2,europe
+Hamilton,Bermuda,Hamilton Bermuda ,32.2945837,-64.7858887,N,490,370,10.5,32.25,-64.688,,72,-3,north_america
+Hanoi,Vietnam,Hanoi Vietnam ,21.021939,105.818806,Y,445,916,11.2,21,105.938,U.S. Department of State Vietnam - Hanoi,HN1010001,7,southeast_asia
+Harare,Zimbabwe,Harare Zimbabwe ,-17.8216288,31.0492259,N,290,676,14.3,-17.75,30.938,,73,2,africa
+Havana,Cuba,Havana Cuba ,23.1135925,-82.3665956,N,453,313,18.6,23,-82.5,,74,-4,north_america
+Helsinki,Finland,Helsinki Finland ,60.1698557,24.9383791,N,602,657,9.5,60.25,25,,75,3,europe
+Hermosillo,Mexico,Hermosillo Mexico ,29.0729673,-110.9559192,N,477,222,8.3,29,-110.938,,76,-7,north_america
+Ho_Chi_Minh_City,Vietnam,Ho Chi Minh City Vietnam ,10.782773,106.700035,Y,404,918,10.9,10.75,106.562,U.S. Department of State Vietnam - Ho Chi Minh,704HC1010001,7,southeast_asia
+Hong_Kong,Hong Kong,Hong Kong Hong Kong ,22.3193039,114.1693611,N,450,942,13.4,22.25,114.062,,77,8,east_asia
+Hyderabad,India,Hyderabad India ,17.38405,78.45636,Y,431,828,13.8,17.5,78.438,U.S. Department of State India - Hyderabad,356DS1010005,5.5,south_asia
+Islamabad,Pakistan,Islamabad Pakistan ,33.725614,73.11602,Y,496,811,10.2,33.75,73.125,U.S. Department of State Pakistan - Islamabad,5.86E+11,5,south_asia
+Istanbul,Turkey,Istanbul Turkey ,41.0082376,28.9783589,N,525,670,7.1,41,29.062,,78,3,europe
+Jakarta,Indonesia,Jakarta Indonesia ,-6.236704,106.793244,Y,336,919,5.6,-6.25,106.875,U.S. Department of State Indonesia - Jakarta,JK1010001,7,southeast_asia
+Jeddah,Saudi Arabia,Jeddah Saudi Arabia ,21.543486,39.172989,Y,447,702,13.5,21.5,39.062,U.S. Department of State Saudi Arabia - Jeddah,682JDA010001,3,middle_east
+Jerusalem,Israel,Jerusalem Israel ,31.768319,35.21371,N,488,690,9.6,31.75,35.312,,80,3,middle_east
+Johannesburg,South Africa,Johannesburg South Africa ,-26.2041028,28.0473051,N,256,667,9.3,-26.25,28.125,,81,2,africa
+Juba,South Sudan,Juba South Sudan ,4.859363,31.57125,N,380,678,12.2,4.75,31.562,U.S. Department of State South Sudan - Juba,728OD1010001,2,africa
+Kampala,Uganda,Kampala Uganda ,0.300225,32.591554,Y,362,681,14.2,0.25,32.5,U.S. Department of State Uganda - Kampala,800KP1010001,3,africa
+Kaohsiung,Taiwan,Kaohsiung Taiwan ,22.6272784,120.3014353,N,452,962,13.7,22.75,120.312,,82,8,east_asia
+Karachi,Pakistan,Karachi Pakistan ,24.8415,67.0091,Y,460,791,17.7,24.75,66.875,U.S. Department of State Pakistan - Karachi,586PK2010001,5,south_asia
+Kathmandu,Nepal,Kathmandu Nepal ,27.712464,85.315703,Y,472,850,3.8,27.75,85.312,U.S. Department of State Nepal - Kathmandu,KM1010002,5.75,south_asia
+Khartoum,Sudan,Khartoum Sudan ,15.5006544,32.5598994,N,423,681,6.4,15.5,32.5,U.S. Department of State Sudan - Khartoum,736SU1730002,2,africa
+Kigali,Rwanda,Kigali Rwanda ,-1.936231,30.077952,Y,353,673,9.3,-2,30,,646KYI010001,2,africa
+Kingston,Jamaica,Kingston Jamaica ,18.0178743,-76.8099041,N,433,331,7.2,18,-76.875,,86,-5,north_america
+Kinshasa,Congo (Kinshasa),Kinshasa Congo (Kinshasa) ,-4.4419311,15.2662931,N,343,626,8.2,-4.5,15.312,,87,1,africa
+Kirkuk,Iraq,Kirkuk Iraq ,35.4666329,44.3798895,N,503,719,3.7,35.5,44.375,,88,3,middle_east
+Kolkata,India,Kolkata India ,22.56263,88.36304,Y,451,860,11.1,22.5,88.438,U.S. Department of State India - Kolkata,356DS1010003,5.5,south_asia
+Krakow,Poland,Krakow Poland ,50.0646501,19.9449799,N,561,641,8.2,50,20,,89,2,europe
+Kuala_Lumpur,Malaysia,Kuala Lumpur Malaysia ,3.15675,101.72145,Y,374,903,18.5,3.25,101.562,U.S. Department of State Malaysia - Kuala Lumpur,458MY1010001,8,southeast_asia
+Kuwait_City,Kuwait,Kuwait City Kuwait ,29.292317,48.047679,Y,478,731,19.9,29.5,48.125,U.S. Department of State Kuwait - Kuwait City,414KC1010001,3,middle_east
+Kyiv,Ukraine,Kyiv Ukraine ,50.4501,30.5234,N,563,675,9.1,50.5,30.625,,90,3,europe
+La_Paz,Bolivia,La Paz Bolivia ,-16.489689,-68.1192936,N,295,359,1.3,-16.5,-68.125,,91,-4,south_america
+Lagos,Nigeria,Lagos Nigeria ,6.440483,3.406815,Y,387,588,7,6.5,3.438,U.S. Department of State Nigeria - Lagos,566NI2010001,1,africa
+Lahore,Pakistan,Lahore Pakistan ,31.560078,74.33589,Y,487,815,2.7,31.5,74.375,U.S. Department of State Pakistan - Lahore,586PK3010003,5,south_asia
+Leipzig,Germany,Leipzig Germany ,51.3396955,12.3730747,N,566,617,13.3,51.25,12.5,,92,2,europe
+Libreville,Gabon,Libreville Gabon ,0.4161976,9.4672676,N,363,607,13.9,0.5,9.375,U.S. Department of State Gabon - Libreville,266GAB010001,1,africa
+Lilongwe,Malawi,Lilongwe Malawi ,-13.9626121,33.7741195,N,305,685,4.9,-14,33.75,,93,2,africa
+Lima,Peru,Lima Peru ,-12.0463731,-77.042754,N,313,330,16.6,-12,-77.188,U.S. Department of State Peru - Lima,604LM1010001,-5,south_america
+Lisbon,Portugal,Lisbon Portugal ,38.7222524,-9.1393366,N,516,548,7.3,38.75,-9.062,,94,1,europe
+Ljubljana,Slovenia,Ljubljana Slovenia ,46.0569465,14.5057515,N,545,623,11.9,46,14.375,,95,2,europe
+Lome,Togo,Lome Togo ,6.185167,1.214166,Y,386,581,14.1,6.25,1.25,U.S. Department of State Togo - Lome,768TOG010001,0,africa
+London,United Kingdom,London United Kingdom ,51.5072178,-0.1275862,N,567,577,8.9,51.5,0,,97,1,europe
+Luanda,Angola,Luanda Angola ,-8.8146556,13.2301756,N,326,619,13.6,-8.75,13.125,,98,1,africa
+Lusaka,Zambia,Lusaka Zambia ,-15.3875259,28.3228165,N,299,668,17.5,-15.5,28.438,,99,2,africa
+Luxembourg_City,Luxembourg,Luxembourg City Luxembourg ,49.611621,6.1319346,N,559,597,15.1,49.5,6.25,,100,2,europe
+Lyon,France,Lyon France ,45.764043,4.835659,N,544,592,11.6,45.75,4.688,,101,2,europe
+Madrid,Spain,Madrid Spain ,40.4167754,-3.7037902,N,523,565,10,40.5,-3.75,,102,2,europe
+Malabo,Equatorial Guinea,Malabo Equatorial Guinea ,3.7549606,8.7821344,N,376,605,3.6,3.75,8.75,,103,1,africa
+Managua,Nicaragua,Managua Nicaragua ,12.1149926,-86.2361744,N,409,301,12.9,12,-86.25,,104,-6,north_america
+Manama,Bahrain,Manama Bahrain ,26.204697,50.570833,Y,466,739,4.8,26.25,50.625,U.S. Department of State Bahrain - Manama,048MNA010001,3,middle_east
+Manila,Philippines,Manila Philippines ,14.57711,120.9778,Y,419,964,12.2,14.5,120.938,U.S. Department of State Philippines - Manila,608PH1010001,8,southeast_asia
+Maputo,Mozambique,Maputo Mozambique ,-25.90382,32.62835,Y,257,681,8.1,-26,32.5,U.S. Department of State Mozambique - Maputo,508MAP010001,2,africa
+Marseille,France,Marseille France ,43.296482,5.36978,N,534,594,6.9,43.25,5.312,,107,2,europe
+Maseru,Lesotho,Maseru Lesotho ,-29.3150767,27.4869229,N,244,665,7.3,-29.25,27.5,,108,2,africa
+Matamoros,Mexico,Matamoros Mexico ,25.8690294,-97.5027376,N,464,265,13.2,25.75,-97.5,,109,-5,north_america
+Mbabane,Eswatini,Mbabane Eswatini ,-26.3054482,31.1366715,N,256,677,12.9,-26.25,31.25,,110,2,africa
+Medan,Indonesia,Medan Indonesia ,3.5951956,98.6722227,N,375,893,13.7,3.5,98.75,,111,7,southeast_asia
+Melbourne,Australia,Melbourne Australia ,-37.8136276,144.9630576,N,210,1041,7.8,-37.75,145,,112,10,southeast_asia
+Merida,Mexico,Merida Mexico ,20.9673702,-89.5925857,N,445,290,10.5,21,-89.688,,113,-6,north_america
+Mexico_City,Mexico,Mexico City Mexico ,19.4116,-99.1522,Y,439,260,10.5,19.5,-99.062,,800090154,-6,north_america
+Milan,Italy,Milan Italy ,45.4642035,9.189982,N,543,606,10.7,45.5,9.062,,115,2,europe
+Minsk,Belarus,Minsk Belarus ,53.9006011,27.558972,N,577,665,11.7,54,27.5,,116,3,europe
+Mogadishu,Somalia,Mogadishu Somalia ,2.0469343,45.3181623,N,369,722,5.3,2,45.312,,117,3,africa
+Monrovia,Liberia,Monrovia Liberia ,6.3156068,-10.8073698,N,386,542,16.1,6.25,-10.938,,118,0,africa
+Monterrey,Mexico,Monterrey Mexico ,25.6866142,-100.3161126,N,464,256,7.1,25.75,-100.312,,119,-6,north_america
+Montevideo,Uruguay,Montevideo Uruguay ,-34.9011127,-56.1645314,N,221,397,13.5,-35,-56.25,,120,-3,south_america
+Montreal,Canada,Montreal Canada ,45.502648,-73.663913,Y,543,341,10.1,45.5,-73.438,,CC0050109,-4,north_america
+Moscow,Russia,Moscow Russia ,55.755826,37.6172999,N,584,697,7.4,55.75,37.5,,122,3,europe
+Mostar,Bosnia and Herzegovina,Mostar Bosnia and Herzegovina ,43.3437748,17.8077578,N,534,634,10.4,43.25,17.812,,123,2,europe
+Mumbai,India,Mumbai India ,19.07283,72.88261,Y,437,810,10.9,19,72.812,U.S. Department of State India - Mumbai,356DS1010004,5.5,south_asia
+Munchen,Germany,Munchen Germany ,48.1351253,11.5819805,N,554,614,12.9,48.25,11.562,,124,2,europe
+Muscat,Oman,Muscat Oman ,23.5880307,58.3828717,N,455,764,11.3,23.5,58.438,,125,4,middle_east
+Nagoya,Japan,Nagoya Japan ,35.1814506,136.9065571,N,502,1015,8.1,35.25,136.875,,126,9,east_asia
+Naha,Japan,Naha Japan ,26.2125758,127.6790208,N,466,986,13.9,26.25,127.812,,127,9,east_asia
+Nairobi,Kenya,Nairobi Kenya ,-1.23437,36.81732,Y,356,695,7.5,-1.25,36.875,U.S. Department of State Kenya - Nairobi,404KE1010001,3,africa
+Naples,Italy,Naples Italy ,40.8517983,14.26812,N,524,623,14.5,40.75,14.375,,129,2,europe
+Nassau,"Bahamas, The","Nassau Bahamas, The ",25.0443312,-77.3503609,N,461,329,15.9,25,-77.5,,130,-4,north_america
+Nay_Pyi_Taw,Burma,Nay Pyi Taw Burma ,19.7633057,96.0785104,N,440,884,14.8,19.75,95.938,,131,6.5,southeast_asia
+N_Djamena,Chad,N'Djamena Chad ,12.1348457,15.0557415,Y,410,625,14.2,12.25,15,U.S. Department of State Chad - N'Djamena,148CHD010001,1,africa
+New_Delhi,India,New Delhi India ,28.63576,77.22445,Y,476,824,12.8,28.5,77.188,U.S. Department of State India - New Delhi,356DS1010001,5.5,south_asia
+New_York,United States,New York United States ,40.7269,-73.8933,Y,524,341,6.3,40.75,-74.062,,360810120,-4,north_america
+Niamey,Niger,Niamey Niger ,13.5115963,2.1253854,N,415,584,6.8,13.5,2.188,,133,1,africa
+Nicosia,Cyprus,Nicosia Cyprus ,35.1855659,33.3822764,N,502,684,8.7,35.25,33.438,,134,3,middle_east
+Nogales,Mexico,Nogales Mexico ,31.291294,-110.951508,Y,486,222,5.7,31.25,-110.938,,800260006,-7,north_america
+Nouakchott,Mauritania,Nouakchott Mauritania ,18.0735299,-15.9582372,N,433,526,8.5,18,-15.938,,136,0,africa
+Nuevo_Laredo,Mexico,Nuevo Laredo Mexico ,27.4779362,-99.549573,N,471,258,13.8,27.5,-99.688,,137,-5,north_america
+Nur_Sultan,Kazakhstan,Nur-Sultan Kazakhstan ,51.125287,71.467217,Y,566,806,11.8,51.25,71.562,U.S. Department of State Kazakhstan - Nur-Sultan,398KAZ010001,6,central_asia
+Nuuk,Denmark,Nuuk Denmark ,64.1814099,-51.6941381,N,618,412,9.9,64.25,-51.562,,138,-1,north_america
+Osaka,Japan,Osaka Japan ,34.6937249,135.5022535,N,500,1011,12.8,34.75,135.625,,139,9,east_asia
+Oslo,Norway,Oslo Norway ,59.9138688,10.7522454,N,601,611,11.9,60,10.625,,140,2,europe
+Ottawa,Canada,Ottawa Canada ,45.434333,-75.67599,Y,543,335,10.4,45.5,-75.625,,60104,-4,north_america
+Ouagadougou,Burkina Faso,Ouagadougou Burkina Faso ,12.304907,-1.497184,Y,410,572,14.3,12.25,-1.562,U.S. Department of State Burkina Faso - Ouagadougou,854BFA010001,0,africa
+Panama_City,Panama,Panama City Panama ,8.9823792,-79.5198696,N,397,323,16,9,-79.375,,143,-5,south_america
+Paramaribo,Suriname,Paramaribo Suriname ,5.8520355,-55.2038278,N,384,400,16.5,5.75,-55.312,,144,-3,south_america
+Paris,France,Paris France ,48.856614,2.3522219,N,556,585,16.1,48.75,2.5,,145,2,europe
+Perth,Australia,Perth Australia ,-31.9523123,115.861309,N,233,948,8.9,-32,115.938,,146,8,southeast_asia
+Peshawar,Pakistan,Peshawar Pakistan ,34.005852,71.53775,Y,497,806,3.9,34,71.562,U.S. Department of State Pakistan - Peshawar,586PK4010001,5,south_asia
+Phnom_Penh,Cambodia,Phnom Penh Cambodia ,11.5563738,104.9282099,N,407,913,10,11.5,105,,147,7,southeast_asia
+Podgorica,Montenegro,Podgorica Montenegro ,42.4304196,19.2593642,N,531,639,12.2,42.5,19.375,,148,2,europe
+Ponta_Delgada,Portugal,Ponta Delgada Portugal ,37.7394207,-25.6686725,N,512,495,4,37.75,-25.625,,149,0,europe
+Port_Louis,Mauritius,Port Louis Mauritius ,-20.1608912,57.5012222,N,280,761,9.9,-20.25,57.5,,150,4,africa
+Port_Moresby,Papua New Guinea,Port Moresby Papua New Guinea ,-9.4438004,147.1802671,N,323,1048,6.3,-9.5,147.188,,151,10,southeast_asia
+Port_of_Spain,Trinidad and Tobago,Port of Spain Trinidad and Tobago ,10.6603196,-61.5085625,N,404,380,11.6,10.75,-61.562,,152,-4,north_america
+Port_au_Prince,Haiti,Port-au-Prince Haiti ,18.594395,-72.3074326,N,435,346,16.4,18.5,-72.188,,153,-4,north_america
+Porto_Alegre,Brazil,Porto Alegre Brazil ,-30.0368176,-51.2089887,N,241,413,5.7,-30,-51.25,,154,-3,south_america
+Prague,Czechia,Prague Czechia ,50.0755381,14.4378005,N,561,623,9.5,50,14.375,,155,2,europe
+Praia,Cabo Verde,Praia Cabo Verde ,14.93305,-23.5133267,N,421,502,11,15,-23.438,,156,-1,africa
+Pretoria,South Africa,Pretoria South Africa ,-25.7478676,28.2292712,N,258,667,10.4,-25.75,28.125,,157,2,africa
+Pristina,Kosovo,Pristina Kosovo ,42.655959,21.139953,Y,532,645,11.9,42.75,21.25,U.S. Department of State Kosovo - Pristina,688PI1010001,2,europe
+Quebec,Canada,Quebec Canada ,46.8615,-71.2572,Y,548,349,7.8,46.75,-71.25,,158,-4,north_america
+Quito,Ecuador,Quito Ecuador ,-0.1806532,-78.4678382,N,360,326,8.4,-0.25,-78.438,,159,-5,south_america
+Rabat,Morocco,Rabat Morocco ,33.9715904,-6.8498129,N,497,555,3.9,34,-6.875,,160,1,africa
+Rangoon,Burma,Rangoon Burma ,16.8256,96.1445,Y,428,885,13,16.75,96.25,U.S. Department of State Burma - Rangoon,104MMR010001,6.5,southeast_asia
+Recife,Brazil,Recife Brazil ,-8.0577401,-34.8829629,N,329,465,14.4,-8,-35,,161,-3,south_america
+Rennes,France,Rennes France ,48.117266,-1.6777926,N,553,572,15.6,48,-1.562,,162,2,europe
+Reykjavik,Iceland,Reykjavik Iceland ,64.146582,-21.9426354,N,618,507,12,64.25,-21.875,,163,0,europe
+Riga,Latvia,Riga Latvia ,56.9496487,24.1051865,N,589,654,6.2,57,24.062,,164,3,europe
+Rio_de_Janeiro,Brazil,Rio de Janeiro Brazil ,-22.9068467,-43.1728965,N,269,439,11.5,-23,-43.125,,165,-3,south_america
+Riyadh,Saudi Arabia,Riyadh Saudi Arabia ,24.7135517,46.6752957,Y,460,726,12.1,24.75,46.562,U.S. Department of State Saudi Arabia - Riyadh,682SAU010001,3,middle_east
+Rome,Italy,Rome Italy ,41.9027835,12.4963655,N,529,617,10.8,42,12.5,,166,2,europe
+Saint_George_s,Grenada,Saint George's Grenada ,12.0560975,-61.7487996,N,409,379,15.1,12,-61.875,,167,-4,north_america
+Saint_Petersburg,Russia,Saint Petersburg Russia ,59.9310584,30.3609096,N,601,674,8.1,60,30.312,,168,3,europe
+San_Jose,Costa Rica,San Jose Costa Rica ,9.949488,-84.142878,Y,401,308,8.6,10,-84.062,U.S. Department of State Costa Rica - San Jose,188CRI010001,-6,north_america
+San_Salvador,El Salvador,San Salvador El Salvador ,13.6929403,-89.2181911,N,416,292,18,13.75,-89.062,,169,-6,north_america
+Santiago,Chile,Santiago Chile ,-33.4488897,-70.6692655,N,227,351,7,-33.5,-70.625,,170,-4,south_america
+Santo_Domingo,Dominican Republic,Santo Domingo Dominican Republic ,18.4860575,-69.9312117,N,435,353,7.4,18.5,-70,,171,-4,north_america
+Sao_Paulo,Brazil,Sao Paulo Brazil ,-23.629158,-46.696558,Y,266,428,10,-23.5,-46.562,U.S. Department of State Brazil - Sao Paulo,076BR1010001,-3,south_america
+Sapporo,Japan,Sapporo Japan ,43.0617713,141.3544507,N,533,1029,10.9,43,141.25,,173,9,east_asia
+Sarajevo,Bosnia and Herzegovina,Sarajevo Bosnia and Herzegovina ,43.856665,18.398205,Y,536,636,12,43.75,18.438,U.S. Department of State Bosnia Herzegovina - Sarajevo,070BIH010001,2,europe
+Seoul,"Korea, South","Seoul Korea, South ",37.566535,126.9779692,N,511,983,11.7,37.5,126.875,,174,9,east_asia
+Shanghai,China,Shanghai China ,31.210683,121.448226,Y,486,966,8.7,31.25,121.562,U.S. Department of State China - Shanghai,156SH1010001,8,east_asia
+Shenyang,China,Shenyang China ,41.78351,123.424434,Y,528,972,6.1,41.75,123.438,U.S. Department of State China - Shenyang,156SY1010001,8,east_asia
+Singapore_City,Singapore,Singapore City Singapore ,1.35735,103.699997,Y,366,909,17.6,1.25,103.75,,702NEA000004,8,southeast_asia
+Skopje,North Macedonia,Skopje North Macedonia ,41.9981294,21.4254355,N,529,646,11.3,42,21.562,,176,2,europe
+Sofia,Bulgaria,Sofia Bulgaria ,42.6977082,23.3218675,N,532,652,11.1,42.75,23.438,,177,3,europe
+Stockholm,Sweden,Stockholm Sweden ,59.3293235,18.0685808,N,598,635,9.4,59.25,18.125,,178,2,europe
+Strasbourg,France,Strasbourg France ,48.5734053,7.7521113,N,555,602,9.3,48.5,7.812,,179,2,europe
+Surabaya,Indonesia,Surabaya Indonesia ,-7.2574719,112.7520883,N,332,938,6.7,-7.25,112.812,,180,7,southeast_asia
+Suva,Fiji,Suva Fiji ,-18.1405049,178.4232507,N,288,1148,12.3,-18.25,178.438,,181,12,southeast_asia
+Sydney,Australia,Sydney Australia ,-33.8688197,151.2092955,N,226,1061,13.7,-33.75,151.25,,182,10,southeast_asia
+Taipei,Taiwan,Taipei Taiwan ,25.0329636,121.5654268,N,461,966,3.7,25,121.562,,183,8,east_asia
+Tallinn,Estonia,Tallinn Estonia ,59.4369608,24.7535747,N,599,656,7.9,59.5,24.688,,184,3,europe
+Tashkent,Uzbekistan,Tashkent Uzbekistan ,41.3672,69.2725,Y,526,799,12.5,41.25,69.375,U.S. Department of State Uzbekistan - Tashkent,860UZB010001,5,central_asia
+Tbilisi,Georgia,Tbilisi Georgia ,41.7151377,44.827096,N,528,720,12.2,41.75,44.688,,185,4,middle_east
+Tegucigalpa,Honduras,Tegucigalpa Honduras ,14.065049,-87.1715002,N,417,298,7.4,14,-87.188,,186,-6,north_america
+Tel_Aviv,Israel,Tel Aviv Israel ,32.0852999,34.7817676,N,489,688,13,32,34.688,,187,3,middle_east
+The_Hague,Netherlands,The Hague Netherlands ,52.0704978,4.3006999,N,569,591,9.3,52,4.375,,188,2,europe
+Thessaloniki,Greece,Thessaloniki Greece ,40.6400629,22.9444191,N,524,650,16.5,40.75,22.812,,189,3,europe
+Tijuana,Mexico,Tijuana Mexico ,32.523366,-116.952495,Y,491,203,14.1,32.5,-117.188,U.S. Department of State Mexico - Tijuana,484MEX010001,-7,north_america
+Tirana,Albania,Tirana Albania ,41.3275459,19.8186982,N,526,640,13.9,41.25,19.688,,191,2,europe
+Tokyo,Japan,Tokyo Japan ,35.6761919,139.6503106,N,504,1024,8.9,35.75,139.688,,192,9,east_asia
+Toronto,Canada,Toronto Canada ,43.645451,-79.3891,Y,536,323,10.8,43.75,-79.375,,193,-4,north_america
+Toulouse,France,Toulouse France ,43.604652,1.444209,N,535,582,15,43.5,1.562,,194,2,europe
+Tripoli,Libya,Tripoli Libya ,32.8872094,13.1913383,N,493,619,14,33,13.125,,195,2,africa
+Tunis,Tunisia,Tunis Tunisia ,36.8064948,10.1815316,N,508,610,13.2,36.75,10.312,,196,1,africa
+Ulaanbaatar,Mongolia,Ulaanbaatar Mongolia ,47.928385,106.92947,Y,553,919,12.8,48,106.875,U.S. Department of State Mongolia - Ulaanbaatar,496UB1010001,8,central_asia
+Valletta,Malta,Valletta Malta ,35.8989085,14.5145528,N,505,623,16.9,36,14.375,,197,2,europe
+Vancouver,Canada,Vancouver Canada ,49.368,-123.277,Y,558,183,3.7,49.25,-123.125,,198,-7,north_america
+Vatican_City,Vatican City,Vatican City Vatican City ,41.902916,12.453389,N,529,617,11.5,42,12.5,,199,2,europe
+Vienna,Austria,Vienna Austria ,48.2081743,16.3738189,N,554,629,10.3,48.25,16.25,,200,2,europe
+Vientiane,Laos,Vientiane Laos ,17.896122,102.64,Y,433,905,14.3,18,102.5,U.S. Department of State Laos - Vientiane,418LAO010001,7,southeast_asia
+Vilnius,Lithuania,Vilnius Lithuania ,54.6871555,25.2796514,N,580,658,7.3,54.75,25.312,,201,3,europe
+Vladivostok,Russia,Vladivostok Russia ,43.1332484,131.9112975,N,534,999,13.3,43.25,131.875,,202,10,europe
+Warsaw,Poland,Warsaw Poland ,52.2296756,21.0122287,N,570,644,5.6,52.25,20.938,,203,2,europe
+Washington,United States,Washington United States ,38.921848,-77.013176,Y,517,331,8.6,47.75,-120.625,,204,-4,north_america
+Wellington,New Zealand,Wellington New Zealand ,-41.2923814,174.7787463,N,196,1136,9,-41.25,174.688,,205,12,southeast_asia
+Windhoek,Namibia,Windhoek Namibia ,-22.5608807,17.0657549,N,271,632,14.2,-22.5,17.188,,206,2,africa
+Winnipeg,Canada,Winnipeg Canada ,49.9489,-97.3964,Y,561,265,12.2,50,-97.188,,70119,-5,north_america
+Wuhan,China,Wuhan China ,30.5927599,114.30525,N,483,943,12.3,30.5,114.375,,208,8,east_asia
+Yaounde,Cameroon,Yaounde Cameroon ,3.8480325,11.5020752,N,376,614,12.8,3.75,11.562,,209,1,africa
+Yekaterinburg,Russia,Yekaterinburg Russia ,56.8430993,60.6454086,N,588,771,10.4,56.75,60.625,,210,5,europe
+Yerevan,Armenia,Yerevan Armenia ,40.16515,44.48171,Y,522,719,13.8,40.25,44.375,U.S. Department of State Armenia - Yerevan,051YER010001,4,central_asia
+Yokohama,Japan,Yokohama Japan ,35.4436739,139.6379639,N,503,1024,7.7,35.5,139.688,,212,9,east_asia
+Zagreb,Croatia,Zagreb Croatia ,45.8150108,15.9819189,N,544,628,8,45.75,15.938,,213,2,europe
+Erbil,Iraq,Erbil Iraq,36.22663,43.9905,N,506,718,0,36.22,43.99,U.S. Consulate General Erbil,214,3,middle_east
